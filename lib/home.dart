@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
                       child: Text(
                         "Foto con animación Hero",
                         style: TextStyle(
-                            fontSize: 20.0, fontWeight: FontWeight.w400 ),
+                            fontSize: 20.0, fontWeight: FontWeight.w400),
                       )),
                   Text("Aqui va la descripción de la imagen",
                     style: TextStyle(
@@ -51,7 +51,7 @@ class Home extends StatelessWidget {
                   )
                 ],
               ),
-            ), //Container
+            ),
           )
         ],
       ),
